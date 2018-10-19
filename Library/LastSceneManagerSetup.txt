@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Live2D/CubismUnityComponents-develop/Scenes/SampleScene.unity
-  isLoaded: 1
-  isActive: 1
