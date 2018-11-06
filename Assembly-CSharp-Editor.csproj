@@ -324,6 +324,18 @@
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="DotNetZip">
+      <HintPath>C:/Users/syoum/OneDrive/デスクトップ/Live 2d/Assets/NuGet/Editor/DotNetZip.dll</HintPath>
+    </Reference>
+    <Reference Include="NuGetForUnity">
+      <HintPath>C:/Users/syoum/OneDrive/デスクトップ/Live 2d/Assets/NuGet/Editor/NuGetForUnity.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.Blob">
+      <HintPath>C:/Users/syoum/OneDrive/デスクトップ/Live 2d/Assets/Packages/OpenCvSharp3-AnyCPU.3.4.1.20180830/lib/net20/OpenCvSharp.Blob.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp">
+      <HintPath>C:/Users/syoum/OneDrive/デスクトップ/Live 2d/Assets/Packages/OpenCvSharp3-AnyCPU.3.4.1.20180830/lib/net20/OpenCvSharp.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/syoum/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>

@@ -54,6 +54,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Face2D.cs" />
     <Compile Include="Assets\FaceLive2D.cs" />
     <Compile Include="Assets\Live2D\Cubism\Core\ArrayExtensionMethods.cs" />
     <Compile Include="Assets\Live2D\Cubism\Core\ComponentExtensionMethods.cs" />
@@ -161,12 +162,15 @@
     <None Include="Assets\Live2D\Cubism\Samples\AsyncBenchmark\Description.txt" />
     <None Include="Assets\hiyori_free\hiyori_free_t05.2048\ReadMe.txt" />
     <None Include="Assets\Live2D\Cubism\Rendering\Resources\Live2D\Cubism\Shaders\CubismCG.cginc" />
+    <None Include="Assets\Packages\OpenCvSharp3-AnyCPU.3.4.1.20180830\lib\net20\OpenCvSharp.Blob.xml" />
     <None Include="Assets\Live2D\Cubism\Rendering\Resources\Live2D\Cubism\Shaders\Mask.shader" />
     <None Include="Assets\Live2D\Cubism\Samples\Models\License.txt" />
     <None Include="Assets\Live2D\Cubism\Samples\Raycasting\Description.txt" />
     <None Include="Assets\Live2D\Cubism\Plugins\RedistributableFiles.txt" />
     <None Include="Assets\Live2D\Cubism\Changelog.txt" />
     <None Include="Assets\Live2D\Cubism\Rendering\Resources\Live2D\Cubism\Shaders\Unlit.shader" />
+    <None Include="Assets\Packages\OpenCvSharp3-AnyCPU.3.4.1.20180830\lib\net20\OpenCvSharp.xml" />
+    <None Include="Assets\NuGet\LICENSE.txt" />
     <None Include="Assets\Live2D\Cubism\Samples\MultipleModels\Description.txt" />
     <None Include="Assets\Live2D\Cubism\Samples\LookAt\Description.txt" />
     <Reference Include="UnityEditor.StandardEvents">
@@ -378,6 +382,12 @@
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.Blob">
+      <HintPath>C:/Users/syoum/OneDrive/デスクトップ/Live 2d/Assets/Packages/OpenCvSharp3-AnyCPU.3.4.1.20180830/lib/net20/OpenCvSharp.Blob.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp">
+      <HintPath>C:/Users/syoum/OneDrive/デスクトップ/Live 2d/Assets/Packages/OpenCvSharp3-AnyCPU.3.4.1.20180830/lib/net20/OpenCvSharp.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/syoum/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
